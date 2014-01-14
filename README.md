@@ -33,7 +33,7 @@ Make this script executable with chmod.
 ---
 example usage:
 
-	python geoip-update.py /path/to/database/ 
+	python geoip-update.py /path/to/database/ 4.2.2.2
 
 help text:
 
