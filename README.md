@@ -16,7 +16,7 @@ Python bindings must also be installed via pip:
 ##Installation
 
 ---
-**TODO:** Automate installation to posix conformantlocation location
+**TODO:** Automate installation to posix conformant location location
 
 It is recommmended to alias this command to include the location of the GeoLite2 database you wish to use.
 
